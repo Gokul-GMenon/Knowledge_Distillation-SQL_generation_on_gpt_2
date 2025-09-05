@@ -32,7 +32,7 @@ The student learns to:
 - Student trained with **dual loss**:  
   - 🟢 Cross-Entropy (generate correct SQL) – 75%  
   - 🔵 MSE (imitate teacher’s hidden states) – 25%  
-- **Training**: 10 epochs on Google Colab GPU.  
+- **Training**: 20 epochs on Google Colab GPU.  
 
 ---
 
