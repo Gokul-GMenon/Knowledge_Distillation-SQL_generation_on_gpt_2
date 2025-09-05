@@ -1,6 +1,3 @@
-# Knowledge_Distillation-SQL_generation_on_gpt_2
-Using Knowledge distillation to train for natural language to SQL generation on GPT-2 model.
-
 # 🧠 Natural Language to SQL using Knowledge Distillation  
 
 This project explores how **Knowledge Distillation (KD)** can be applied to the **Text-to-SQL** problem — enabling anyone to query a database using natural language, without needing advanced SQL knowledge or heavy reliance on large models.  
