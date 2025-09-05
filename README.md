@@ -50,16 +50,16 @@ The student learns to:
 ## 📊 Visuals  
 
 ### 1. Database Schema  
-![Database Schema](<img width="3719" height="3840" alt="db_schema_mermaid" src="https://github.com/user-attachments/assets/1536c725-9343-4df7-b486-ae74d1b0431b" />
-)
+<img width="3719" height="3840" alt="db_schema_mermaid" src="https://github.com/user-attachments/assets/1536c725-9343-4df7-b486-ae74d1b0431b" />
+
 
 ### 2. Knowledge Distillation Architecture  
-![Distillation Architecture](<img width="2729" height="3840" alt="mermaid_architecture_diagram" src="https://github.com/user-attachments/assets/17596f1f-00a2-4fca-b562-bdeebddea7df" />
-)
+<img width="2729" height="3840" alt="mermaid_architecture_diagram" src="https://github.com/user-attachments/assets/17596f1f-00a2-4fca-b562-bdeebddea7df" />
+
 
 ### 3. Sample Outputs (Natural Language → SQL)  
-![Sample Outputs](<img width="1315" height="551" alt="outputsKD" src="https://github.com/user-attachments/assets/a24b5a6a-d964-4db0-863c-f5e25e74d3aa" />
-)  
+<img width="1315" height="551" alt="outputsKD" src="https://github.com/user-attachments/assets/a24b5a6a-d964-4db0-863c-f5e25e74d3aa" />
+  
 
 ---
 
